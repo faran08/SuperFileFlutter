@@ -29,7 +29,7 @@ class SuperfileApp extends StatelessWidget {
     final theme = manager.getEffectiveTheme(context);
 
     return MaterialApp(
-      title: 'Superfile GUI',
+      title: 'SuperFileFultter',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         brightness: theme.fullScreenBg.computeLuminance() > 0.5 ? Brightness.light : Brightness.dark,
