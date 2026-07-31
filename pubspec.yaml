@@ -1,5 +1,11 @@
 name: superfile
-description: "A new Flutter project."
+description: A Flutter application for managing files with Vim-style navigation, built-in ZIP compression/extraction, and modular multi-panel layout.
+repository: https://github.com/anomalyco/SuperFile
+issue_tracker: https://github.com/anomalyco/SuperFile/issues
+homepage: https://github.com/anomalyco/SuperFile
+documentation: https://github.com/anomalyco/SuperFile/wiki
+license: MIT
+
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
